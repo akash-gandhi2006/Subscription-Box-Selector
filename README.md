@@ -1,13 +1,13 @@
 # Subscription Box Selector
 
-A full-stack MERN application for selecting and managing Airtel subscription plans with user authentication, admin panel, and payment simulation.
+A full-stack MERN application for selecting and managing  subscription plans with user authentication, admin panel, and payment simulation.
 
 ## 🚀 Features
 
 ### User Features
 - **User Authentication**: Register, login, and logout functionality
 - **User Dashboard**: View account information and subscription status
-- **Subscription Plans**: Browse and select from various Airtel plans
+- **Subscription Plans**: Browse and select from various plans
 - **Payment Simulation**: Realistic payment flow with card and UPI options
 - **Profile Management**: Update personal information
 - **Subscription Management**: Cancel subscriptions and view history
